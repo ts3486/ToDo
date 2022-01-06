@@ -1,0 +1,33 @@
+h3 {
+  color: white;
+  font-family: "Press Start 2P", cursive;
+}
+
+.formContainer {
+  margin: 1%;
+}
+
+.form {
+  padding: 30px 15px 40px 15px;
+  background-color: #eeeaf7;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2%;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: orw;
+}
+
+button.MuiButton-root {
+  background-color: #ef8d44;
+  color: white;
+  font-weight: bold;
+}
+
+button.MuiButton-root:hover {
+  background-color: #f3a46b !important;
+  color: white;
+  font-weight: bold;
+}

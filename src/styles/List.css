@@ -1,0 +1,27 @@
+.cardContainer {
+  margin-top: 20px;
+}
+
+.MuiCard-root {
+  display: flex;
+  flex-direction: row;
+}
+
+.MuiCardContent-root {
+  width: 75%;
+  font-family: "Catamaran", sans-serif;
+}
+
+.MuiCardActions-root > button.MuiButton-root {
+  background-color: #ee4444 !important;
+}
+
+.MuiCardActions-root > button.MuiButton-root:hover {
+  background-color: #ff5c5c !important;
+  color: white;
+  font-weight: bold;
+}
+
+.MuiCardActions-root > button.MuiTouchRipple-rippleVisible {
+  color: #ffac6f !important;
+}
