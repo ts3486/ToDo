@@ -21,7 +21,3 @@
   color: white;
   font-weight: bold;
 }
-
-.MuiCardActions-root > button.MuiTouchRipple-rippleVisible {
-  color: #ffac6f !important;
-}
